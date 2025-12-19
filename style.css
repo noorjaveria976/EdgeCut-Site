@@ -18,7 +18,7 @@ a {
 .carousel_img_wrapper_contain {
     height: 300px;
     max-width:100%;
-    display: flex;
+    /* display: flex; */
     justify-content: center;
     align-items: center;
 }
