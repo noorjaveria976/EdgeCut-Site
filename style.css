@@ -60,7 +60,7 @@ a {
 .btn2 {
     background-color: #6bb7be;
     color: #ffffff;
-    /* border: 1px solid #6bb7be; */
+    border: 1px solid #6bb7be;
 }
 
 .btn2:hover {
