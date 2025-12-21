@@ -101,7 +101,7 @@ a {
 .footer_links::before {
     content: ">";
     color: #f89646;
-    padding-right: 10px;
+    /* padding-right: 10px; */
 }
 
 /* Instagram Grid Feed */
