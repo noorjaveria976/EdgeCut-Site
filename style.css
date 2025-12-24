@@ -161,5 +161,5 @@ a {
     justify-content: center;
     align-items: center;
     border: 10px solid #6bb7be;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
