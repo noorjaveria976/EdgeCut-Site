@@ -131,7 +131,7 @@ a {
 }
 
 .social_box_icon a:hover {
-    /* border: 1px solid #f89646; */
+    border: 1px solid #f89646;
     color: #f89646;
 }
 
