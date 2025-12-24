@@ -157,7 +157,7 @@ a {
     height: 175px;
     width: 175px;
     border-radius: 100%;
-    /* display: flex; */
+    display: flex;
     justify-content: center;
     align-items: center;
     border: 10px solid #6bb7be;
